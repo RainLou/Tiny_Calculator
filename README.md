@@ -1,2 +1,2 @@
-# UI-For-Calculator
+# Tiny Calculator
 User Interface For a Simple Calculator
